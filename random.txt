@@ -1,3 +1,8 @@
 This is a dummy hipster file containg some random texts sad asdfjkl;ass asdd asdfghjkl;aq
 some more texts by some one
+<<<<<<< HEAD
 asasasas
+=======
+More new texts
+some more
+>>>>>>> e47d6039b1cbecc635c0bde78b12b77f61910aa7
