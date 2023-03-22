@@ -6,3 +6,4 @@ asasasas
 More new texts
 some more
 >>>>>>> e47d6039b1cbecc635c0bde78b12b77f61910aa7
+ adding texts from system
